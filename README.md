@@ -2,7 +2,6 @@
 All my first year's web projects coded at <a href="https://edenschool.fr">EdenSchool</a> Lyon
 
 ## Using
-<div align="center"> 
   &emsp;
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML-e86328?style=for-the-badge&logo=html5&logoColor=white"/></a>
   &emsp;
@@ -10,4 +9,3 @@ All my first year's web projects coded at <a href="https://edenschool.fr">EdenSc
   &emsp;
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-e6d34b?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   &emsp;
-</div>
