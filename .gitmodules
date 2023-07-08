@@ -1,15 +1,9 @@
-[submodule "6-Javascript_Exercices"]
-	path = 6-Javascript_Exercices
-	url = https://github.com/IMTR0J4N/6-Javascript_Exercices
-[submodule "AutoFill"]
-	path = AutoFill
-	url = https://github.com/IMTR0J4N/AutoFill
-[submodule "Tainix-Exercices"]
-	path = Tainix-Exercices
-	url = https://github.com/IMTR0J4N/Tainix-Exercices
-[submodule "Rock-Paper-Scisors"]
-	path = Rock-Paper-Scisors
-	url = https://github.com/IMTR0J4N/Rock-Paper-Scisors
-[submodule "Fizz-Buzz"]
-	path = Fizz-Buzz
-	url = https://github.com/IMTR0J4N/Fizz-Buzz
+[submodule "Javascript-Exam_Final"]
+	path = Javascript-Exam_Final
+	url = https://github.com/IMTR0J4N/Javascript-Exam_Final
+[submodule "HTML-CSS-Exam_Final"]
+	path = HTML-CSS-Exam_Final
+	url = https://github.com/IMTR0J4N/HTML-CSS-Exam_Final
+[submodule "Javascript-Exam_Mock"]
+	path = Javascript-Exam_Mock
+	url = https://github.com/IMTR0J4N/Javascript-Exam_Mock
