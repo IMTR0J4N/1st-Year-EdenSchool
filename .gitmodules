@@ -1,60 +1,15 @@
-[submodule "E1-Welcome"]
-	path = E1-Welcome
-	url = https://github.com/IMTR0J4N/E1-Welcome
-[submodule "E2-Cats"]
-	path = E2-Cats
-	url = https://github.com/IMTR0J4N/E2-Cats
-[submodule "E3-HunterXHunter"]
-	path = E3-HunterXHunter
-	url = https://github.com/IMTR0J4N/E3-HunterXHunter
-[submodule "E4-Backups"]
-	path = E4-Backups
-	url = https://github.com/IMTR0J4N/E4-Backups
-[submodule "E5-Sports_Hall"]
-	path = E5-Sports_Hall
-	url = https://github.com/IMTR0J4N/E5-Sports_Hall
-[submodule "E6-Sports_Hall-Second"]
-	path = E6-Sports_Hall-Second
-	url = https://github.com/IMTR0J4N/E6-Sports_Hall-Second
-[submodule "E7-Cosplay"]
-	path = E7-Cosplay
-	url = https://github.com/IMTR0J4N/E7-Cosplay
-[submodule "E8-Drummers"]
-	path = E8-Drummers
-	url = https://github.com/IMTR0J4N/E8-Drummers
-[submodule "E9-Robots_History"]
-	path = E9-Robots_History
-	url = https://github.com/IMTR0J4N/E9-Robots_History
-[submodule "Gallery"]
-	path = Gallery
-	url = https://github.com/IMTR0J4N/Gallery
-[submodule "Scroll-Spy_Test"]
-	path = Scroll-Spy_Test
-	url = https://github.com/IMTR0J4N/Scroll-Spy_Test
-[submodule "Enjoy-Meal"]
-	path = Enjoy-Meal
-	url = https://github.com/IMTR0J4N/Enjoy-Meal
-[submodule "Password-Generator"]
-	path = Password-Generator
-	url = https://github.com/IMTR0J4N/Password-Generator
-[submodule "Expanding-Card"]
-	path = Expanding-Card
-	url = https://github.com/IMTR0J4N/Expanding-Card
-[submodule "Sass-Initiation"]
-	path = Sass-Initiation
-	url = https://github.com/IMTR0J4N/Sass-Initiation
-[submodule "Snake_Canvas-DOM"]
-	path = Snake_Canvas-DOM
-	url = https://github.com/IMTR0J4N/Snake_Canvas-DOM
-[submodule "Video-Player"]
-	path = Video-Player
-	url = https://github.com/IMTR0J4N/Video-Player
-[submodule "Typing-Animation"]
-	path = Typing-Animation
-	url = https://github.com/IMTR0J4N/Typing-Animation
-[submodule "Weather-App_React"]
-	path = Weather-App_React
-	url = https://github.com/IMTR0J4N/Weather-App_React
-[submodule "Weather-App"]
-	path = Weather-App
-	url = https://github.com/IMTR0J4N/Weather-App
+[submodule "6-Javascript_Exercices"]
+	path = 6-Javascript_Exercices
+	url = https://github.com/IMTR0J4N/6-Javascript_Exercices
+[submodule "AutoFill"]
+	path = AutoFill
+	url = https://github.com/IMTR0J4N/AutoFill
+[submodule "Tainix-Exercices"]
+	path = Tainix-Exercices
+	url = https://github.com/IMTR0J4N/Tainix-Exercices
+[submodule "Rock-Paper-Scisors"]
+	path = Rock-Paper-Scisors
+	url = https://github.com/IMTR0J4N/Rock-Paper-Scisors
+[submodule "Fizz-Buzz"]
+	path = Fizz-Buzz
+	url = https://github.com/IMTR0J4N/Fizz-Buzz
