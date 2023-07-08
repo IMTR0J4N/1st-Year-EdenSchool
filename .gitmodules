@@ -1,0 +1,60 @@
+[submodule "E1-Welcome"]
+	path = 9-Exercices/E1-Welcome
+	url = https://github.com/IMTR0J4N/E1-Welcome
+[submodule "E2-Cats"]
+	path = 9-Exercices/E2-Cats
+	url = https://github.com/IMTR0J4N/E2-Cats
+[submodule "E3-HunterXHunter"]
+	path = 9-Exercices/E3-HunterXHunter
+	url = https://github.com/IMTR0J4N/E3-HunterXHunter
+[submodule "E4-Backups"]
+	path = 9-Exercices/E4-Backups
+	url = https://github.com/IMTR0J4N/E4-Backups
+[submodule "E5-Sports_Hall"]
+	path = 9-Exercices/E5-Sports_Hall
+	url = https://github.com/IMTR0J4N/E5-Sports_Hall
+[submodule "E6-Sports_Hall-Second"]
+	path = 9-Exercices/E6-Sports_Hall-Second
+	url = https://github.com/IMTR0J4N/E6-Sports_Hall-Second
+[submodule "E7-Cosplay"]
+	path = 9-Exercices/E7-Cosplay
+	url = https://github.com/IMTR0J4N/E7-Cosplay
+[submodule "E8-Drummers"]
+	path = 9-Exercices/E8-Drummers
+	url = https://github.com/IMTR0J4N/E8-Drummers
+[submodule "E9-Robots_History"]
+	path = 9-Exercices/E9-Robots_History
+	url = https://github.com/IMTR0J4N/E9-Robots_History
+[submodule "Gallery"]
+	path = Gallery
+	url = https://github.com/IMTR0J4N/Gallery
+[submodule "Scroll-Spy_Test"]
+	path = Scroll-Spy_Test
+	url = https://github.com/IMTR0J4N/Scroll-Spy_Test
+[submodule "Enjoy-Meal"]
+	path = Enjoy-Meal
+	url = https://github.com/IMTR0J4N/Enjoy-Meal
+[submodule "Password-Generator"]
+	path = Password-Generator
+	url = https://github.com/IMTR0J4N/Password-Generator
+[submodule "Expanding-Card"]
+	path = Expanding-Card
+	url = https://github.com/IMTR0J4N/Expanding-Card
+[submodule "Sass-Initiation"]
+	path = Sass-Initiation
+	url = https://github.com/IMTR0J4N/Sass-Initiation
+[submodule "Snake_Canvas-DOM"]
+	path = Snake_Canvas-DOM
+	url = https://github.com/IMTR0J4N/Snake_Canvas-DOM
+[submodule "Video-Player"]
+	path = Video-Player
+	url = https://github.com/IMTR0J4N/Video-Player
+[submodule "Typing-Animation"]
+	path = Typing-Animation
+	url = https://github.com/IMTR0J4N/Typing-Animation
+[submodule "Weather-App_React"]
+	path = Weather-App_React
+	url = https://github.com/IMTR0J4N/Weather-App_React
+[submodule "Weather-App"]
+	path = Weather-App
+	url = https://github.com/IMTR0J4N/Weather-App
