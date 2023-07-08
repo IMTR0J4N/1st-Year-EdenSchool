@@ -1,29 +1,29 @@
 [submodule "E1-Welcome"]
-	path = 9-Exercices/E1-Welcome
+	path = E1-Welcome
 	url = https://github.com/IMTR0J4N/E1-Welcome
 [submodule "E2-Cats"]
-	path = 9-Exercices/E2-Cats
+	path = E2-Cats
 	url = https://github.com/IMTR0J4N/E2-Cats
 [submodule "E3-HunterXHunter"]
-	path = 9-Exercices/E3-HunterXHunter
+	path = E3-HunterXHunter
 	url = https://github.com/IMTR0J4N/E3-HunterXHunter
 [submodule "E4-Backups"]
-	path = 9-Exercices/E4-Backups
+	path = E4-Backups
 	url = https://github.com/IMTR0J4N/E4-Backups
 [submodule "E5-Sports_Hall"]
-	path = 9-Exercices/E5-Sports_Hall
+	path = E5-Sports_Hall
 	url = https://github.com/IMTR0J4N/E5-Sports_Hall
 [submodule "E6-Sports_Hall-Second"]
-	path = 9-Exercices/E6-Sports_Hall-Second
+	path = E6-Sports_Hall-Second
 	url = https://github.com/IMTR0J4N/E6-Sports_Hall-Second
 [submodule "E7-Cosplay"]
-	path = 9-Exercices/E7-Cosplay
+	path = E7-Cosplay
 	url = https://github.com/IMTR0J4N/E7-Cosplay
 [submodule "E8-Drummers"]
-	path = 9-Exercices/E8-Drummers
+	path = E8-Drummers
 	url = https://github.com/IMTR0J4N/E8-Drummers
 [submodule "E9-Robots_History"]
-	path = 9-Exercices/E9-Robots_History
+	path = E9-Robots_History
 	url = https://github.com/IMTR0J4N/E9-Robots_History
 [submodule "Gallery"]
 	path = Gallery
